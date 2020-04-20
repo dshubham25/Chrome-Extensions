@@ -36,4 +36,4 @@ Note:
 - works with forms on the actual page
 - this extension does not work with forms embedded in frames
 
-### more code extensions will be added on my own once I get the hang of how to do chroe extensions
+### more code extensions will be added on my own once I get the hang of how to do chrome extensions
